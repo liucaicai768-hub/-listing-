@@ -1,13 +1,14 @@
 # 三套 Amazon US Listing 草稿
 基于用户确认：法兰绒、姓名定制、单面印花、不发光、可机洗。具体尺寸未提供；发布前补充实际尺寸并核对实物图案。第二套由蜘蛛侠关键词表提取通用男孩/毛毯词，但不含角色名称、品牌或暗示授权的表述。第三套为通用男孩词库的生日礼赠角度，不假定另一个图案主题。
 
+
 ## 01_恐龙姓名定制
 
-**Title**
-Personalized Dinosaur Blanket for Boys, Soft Flannel Custom Name Throw
+**普通标题 / Item Name**
+Personalized Dinosaur Blanket for Boys, Custom Name Flannel Throw
 
-**Item Highlight**
-Single-Sided Print for Reading Time, Movie Nights and Bedroom Decor
+**亮点 / Item Highlight（125 字符以内）**
+Soft Feel, Single-Sided Print, Machine Washable, Multiple Sizes for Reading, Movie Nights and Dinosaur Bedroom Decor
 
 **Bullet Points**
 1. Custom Name Detail: Add his name to create a dinosaur blanket with a personal touch. Check the spelling before placing your order.
@@ -22,15 +23,16 @@ Make his downtime personal with a personalized dinosaur blanket for boys. Made f
 **Search Terms**
 dino blankets kids bedroom decor couch sofa travel birthday gifts teen
 
-机械检查通过：{'item_name_characters': 70, 'item_highlight_characters': 67, 'generic_keyword_utf8_bytes': 70, 'bullet_count': 5}
+机械检查通过：{'item_name_characters': 65, 'item_highlight_characters': 116, 'generic_keyword_utf8_bytes': 70, 'bullet_count': 5}
+
 
 ## 02_男孩姓名定制_日常
 
-**Title**
-Personalized Blanket for Boys, Soft Flannel Kids Throw with Name
+**普通标题 / Item Name**
+Personalized Blanket for Boys with Name, Flannel Kids Throw
 
-**Item Highlight**
-Single-Sided Print for Reading Time, Movie Nights and Bedroom Decor
+**亮点 / Item Highlight（125 字符以内）**
+Soft Feel, Single-Sided Print, Machine Washable, Multiple Sizes for Couch Lounging, Reading Time and Family Movie Nights
 
 **Bullet Points**
 1. Personalized With His Name: Add his name to create a boys blanket that feels personal. Check the spelling before placing your order.
@@ -45,15 +47,16 @@ Add his name to a personalized blanket for boys and bring an individual touch to
 **Search Terms**
 custom blankets bedroom decor couch sofa travel birthday gifts teen
 
-机械检查通过：{'item_name_characters': 64, 'item_highlight_characters': 67, 'generic_keyword_utf8_bytes': 67, 'bullet_count': 5}
+机械检查通过：{'item_name_characters': 59, 'item_highlight_characters': 120, 'generic_keyword_utf8_bytes': 67, 'bullet_count': 5}
+
 
 ## 03_男孩姓名定制_生日
 
-**Title**
-Personalized Boys Blanket with Name, Soft Flannel Birthday Throw
+**普通标题 / Item Name**
+Personalized Boys Blanket with Name, Custom Flannel Birthday Throw
 
-**Item Highlight**
-An Individual Touch for Celebrations and Everyday Downtime
+**亮点 / Item Highlight（125 字符以内）**
+Soft Feel, Single-Sided Print, Machine Washable, Multiple Sizes for a Personal Keepsake, Bedroom Decor and Everyday Use
 
 **Bullet Points**
 1. Name-Personalized Detail: Turn a boys blanket into a personal keepsake by adding his name. Review the spelling before ordering.
@@ -66,6 +69,6 @@ An Individual Touch for Celebrations and Everyday Downtime
 Celebrate him with a personalized boys blanket featuring his name. This soft flannel throw combines a single-sided print with a personal detail for a birthday or another meaningful occasion. After the celebration, it can become part of reading time, movie nights or everyday downtime. Choose an available size and check the name spelling before ordering. The blanket is machine washable and does not glow in the dark; follow the supplied care instructions.
 
 **Search Terms**
-custom blankets kids bedroom decor couch sofa travel gifts teen
+blankets kids bedroom decor couch sofa travel gifts teen
 
-机械检查通过：{'item_name_characters': 64, 'item_highlight_characters': 58, 'generic_keyword_utf8_bytes': 63, 'bullet_count': 5}
+机械检查通过：{'item_name_characters': 66, 'item_highlight_characters': 119, 'generic_keyword_utf8_bytes': 56, 'bullet_count': 5}
